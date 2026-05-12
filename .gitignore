@@ -1,0 +1,18 @@
+RealData/
+Simulation/Data
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
